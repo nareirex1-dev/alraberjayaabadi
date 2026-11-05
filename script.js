@@ -33,7 +33,7 @@ const products = [
     desc: "Toraja arabica with low acidity, spicy aroma, and a clean aftertaste.",
     basePrice: 8.50,
     minOrder: 3,
-    img: "image/roasted_coffee_bran_arabica.webp.jpg"
+    img: "image/roasted_coffee_bean_arabica.webp"
   },
   {
     id: 4,
